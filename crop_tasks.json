@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "crop": "Rice",
+        "month": "June",
+        "task": "Sowing",
+        "date": "2026-06-15",
+        "status": "Planned"
+    },
+    {
+        "id": 2,
+        "crop": "Wheat",
+        "month": "November",
+        "task": "Watering",
+        "date": "2026-11-25",
+        "status": "Planned"
+    },
+    {
+        "id": 3,
+        "crop": "Maize",
+        "month": "July",
+        "task": "Fertilizing",
+        "date": "2026-07-15",
+        "status": "Completed"
+    },
+    {
+        "id": 4,
+        "crop": "Tomato",
+        "month": "January",
+        "task": "Harvesting",
+        "date": "2026-01-20",
+        "status": "Completed"
+    }
+]
